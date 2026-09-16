@@ -6,6 +6,12 @@
 
 整理日期：2026-09-17　｜　专题方向：记录关联
 
+<!-- article-chain:start -->
+
+> 系列导航：[全部文章目录](https://github.com/TGmszrcsz/baccarat-ai-index) ｜ [上一篇：第 037 篇 - 百家乐Ai预测分析工具：无法关联的孤立记录也值得保留](https://github.com/TGmszrcsz/baccarat-ai-037) ｜ [下一篇：第 039 篇 - 百家乐Ai预测分析工具：跨日与时区转换中的局号核对](https://github.com/TGmszrcsz/baccarat-ai-039)
+
+<!-- article-chain:end -->
+
 等待识别、预测待定、已完成被混成同一种进度。本篇围绕“用状态转换表减少结果标签歧义”展开，结合现有界面示例，说明判断依据、核对顺序和需要保留的记录。
 
 ## 一、本篇解决的阅读问题
